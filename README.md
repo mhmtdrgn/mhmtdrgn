@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmtdrgn&" alt="mhmtdrgn" /></p>
 
+![walking-code](https://user-images.githubusercontent.com/108184995/193330320-8edb145f-82e9-4937-9cda-22e5e4558ac6.gif)
