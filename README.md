@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on about football,politics,daily news and memes [www.twitter.com/mhmtdrgn_](www.twitter.com/mhmtdrgn_)
 
-- 📫 How to reach me **m.durgun019@gmail.com | https://www.linkedin.com/in/mehmet-durgun/**
+- 📫 How to reach me : **m.durgun019@gmail.com | https://www.linkedin.com/in/mehmet-durgun/**
 
 - ⚡ Fun facts; **I love coding 💻 , football ⚽ , music 🎶**
 
