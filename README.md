@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java,Selenium,SDLC,Jira,Git-Github,HTML,SQL-JDBC**
 
-- 📝 I regularly write articles on about football,politics,daily news and memes [www.twitter.com/mhmtdrgn_](www.twitter.com/mhmtdrgn_)
+- 📝 I regularly write articles about football,politics,daily news and memes on [www.twitter.com/mhmtdrgn_](www.twitter.com/mhmtdrgn_)
 
 - 📫 How to reach me : **m.durgun019@gmail.com | https://www.linkedin.com/in/mehmet-durgun/**
 
